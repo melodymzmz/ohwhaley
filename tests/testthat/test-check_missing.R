@@ -11,5 +11,5 @@ test_that("check_missing works", {
   # write a test for a vector containing an `NA`
   expect_error(check_missing(c(1, NA)))
 })
-
+bb
 
